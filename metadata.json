@@ -1,0 +1,5 @@
+{
+  "name": "快乐计算器 (Overtime Calc)",
+  "description": "一款基于特定工时规则（弹性工作制+30分钟缓冲）的快乐时长计算与可视化教学工具。",
+  "requestFramePermissions": []
+}
